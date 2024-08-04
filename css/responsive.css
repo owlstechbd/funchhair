@@ -44,6 +44,15 @@
     .slider-bg{
         height: 100vh;
     }
+    .price-photo-box{
+        flex-direction: column;
+    }
+    .price-photo{
+        width: 100%;
+    }
+    .price-table-new{
+        width: 100%;
+    }
     .service-bg {
         height: auto;
         padding: 350px 35px 0;
